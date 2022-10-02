@@ -3,7 +3,7 @@
 int buzz = 11;
 int active = 10;
 int i = 0;
-String s1 = "66115";
+String s1 = "choose password";
 String s = "";
 const int R = 4;
 const int C = 4;
